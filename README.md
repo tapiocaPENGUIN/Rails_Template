@@ -1,24 +1,9 @@
-# README
+# Description
+Ruby on Rails template that has bootstrap-sass already configured and ready to go so you don't have to go through the troubles of changing any files.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+#Instructions
+Git clone https://github.com/tapiocaPENGUIN/Rails_Template
+cd into directiory
+bundle install
+rails s
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
